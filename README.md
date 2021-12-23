@@ -5,6 +5,7 @@ Exploring Airbnb's rental landscape in Seattle City
 ## Data Source
 http://insideairbnb.com/get-the-data.html
 
+## Questions to Answer
 * How do prices of listings vary by location/neighbourhood?
 * How do the ratings vary by location/neighbourhood?
 * What are the different types of properties in Seattle?
