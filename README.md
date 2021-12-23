@@ -1,11 +1,5 @@
 # Airbnb
-Exploring Airbnb's rental landscape in Seattle City
-
-
-## Data Source
-http://insideairbnb.com/get-the-data.html
-
-## Questions to Answer
+In this project, I aim to understand Airbnb rental landscape in Seattle City through exploratory analysis on the Airbnb dataset. Through static and interactive visualizations, we try to answer the below questions:
 * How do prices of listings vary by location/neighbourhood?
 * How do the ratings vary by location/neighbourhood?
 * What are the different types of properties in Seattle?
@@ -16,3 +10,11 @@ http://insideairbnb.com/get-the-data.html
 * Is it expensive to travel on weekends?
 * What is the opinion of the guests about Seattle Airbnbs?
 * What makes a host a Super host?
+
+
+## Data Source
+http://insideairbnb.com/get-the-data.html
+
+You can let me know if something isn't clear at any one of these addresses: pkakkar@seattleu.edu | prateekkakkar23@gmail.com.
+Enjoy!
+
