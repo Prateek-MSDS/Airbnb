@@ -1,5 +1,5 @@
 # Airbnb
-In this project, I aim to understand Airbnb rental landscape in Seattle City through exploratory analysis on the Airbnb dataset. Through static visualizations, we try to answer the below questions:
+In this project, I aim to understand Airbnb rental landscape in Seattle City through exploratory analysis on the Airbnb dataset. Through static visualizations, I try to answer the below questions:
 * How do prices of listings vary by location/neighbourhood?
 * How do the ratings vary by location/neighbourhood?
 * What are the different types of properties in Seattle?
